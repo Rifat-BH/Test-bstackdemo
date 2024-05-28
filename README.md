@@ -38,3 +38,14 @@ write samples "View Results Tree" <br/>
 write samples "Graph Results" <br/>
 write samples "Aggregate Graph" (filename: " Spike_Test.csv", xml: false, errorsOnly: false, successOnly: ) <br/>
    Comments: Thread Group for Spike testing. Loads: 500, 600, 500, 2000, 500,<br/>
+
+## lead test report
+![Screenshot 2024-05-29 031756](https://github.com/Rifat-BH/Test-bstackdemo/assets/73948267/c59786e9-36c5-47d6-8a93-7855f77e06c8)
+
+## Stress test report
+![Screenshot 2024-05-29 031845](https://github.com/Rifat-BH/Test-bstackdemo/assets/73948267/2dc9d5e0-e755-42b5-970c-ac421596bd8c)
+
+## Spike test report
+![Screenshot 2024-05-29 031822](https://github.com/Rifat-BH/Test-bstackdemo/assets/73948267/00259930-8674-414c-a328-cc3e69725987)
+
+
