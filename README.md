@@ -2,10 +2,10 @@
 ## 1. Introduction
 The purpose of this test plan is to outline the strategy, objectives, schedule, resources, and scope of testing activities for the bstackdemo.com website. This will ensure the website meets its functional and non-functional requirements and provides a seamless user experience.
 ## 2. Objectives
-Verify the functionality of the website.
-Ensure the website is compatible across different browsers and devices.
-Validate the performance and security of the website.
-Confirm the user interface meets design specifications and is user-friendly.
+- Verify the functionality of the website. <br/>
+- Ensure the website is compatible across different browsers and devices.
+- Validate the performance and security of the website.
+- Confirm the user interface meets design specifications and is user-friendly.
 ## 3. Scope
 Functional Testing: Test all features and functionalities of the website.
 UI/UX Testing: Validate the user interface and user experience.
