@@ -1,4 +1,4 @@
-# Test Plan for https://bstackdemo.com/
+# Test Plan for Bstackdemo.
 ## 1. Introduction
 The purpose of this test plan is to outline the strategy, objectives, schedule, resources, and scope of testing activities for the bstackdemo.com website. This will ensure the website meets its functional and non-functional requirements and provides a seamless user experience.
 ## 2. Objectives
@@ -61,8 +61,3 @@ QA Lead: Bin <br/>
 Development Lead: Hossain <br/>
 ## 11. Conclusion
 This test plan outlines a structured approach to ensure the https://bstackdemo.com/ website is thoroughly tested and meets all specified requirements. Proper execution of this plan will help in delivering a high-quality, reliable, and user-friendly website.
-
-
-# Test Cases:
-[Test Case for Bstackdemo - Homepage.pdf](https://github.com/Rifat-BH/Test-bstackdemo/files/15465254/Test.Case.for.Bstackdemo.-.Homepage.pdf)
-
